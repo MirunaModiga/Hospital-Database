@@ -16,3 +16,5 @@ The database encompasses various modules, including:
 6. Billing and Finance: Handles billing, insurance claims, and financial transactions, providing a comprehensive financial management system for the hospital.
 
 ![Spital](https://github.com/MirunaModiga/Hospital-Database/assets/107638226/19b2f0a0-85f2-45e1-a0ab-1f0bf9f6ac37)
+
+This project includes a collection of 150 queries with various SQL statements to perform different operations and retrieve specific information from the database. These queries cover a wide range of functionalities and requirements within the hospital management system.
