@@ -1,7 +1,7 @@
 ﻿USE master
 DROP DATABASE IF EXISTS SpitalMilitar
 
-------------------------------------------------CREAREA BAZEI DE DATE-------------------------------------------------------
+------------------------------------------------CREAREA BAZEI DE DATE-----------------------------------------------------
 
 CREATE DATABASE SpitalMilitar
 ON PRIMARY
